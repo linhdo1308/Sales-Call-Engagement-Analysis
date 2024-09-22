@@ -1,5 +1,5 @@
 # R_Classificatio_Tree_Customer_Behavior_Analysis
-Customer churn --
+
 Sales department at AdviseInvest is facing a problem where many of customers who scheduled a sales call does not answer the call.
 We will clean data and then use a classification tree model to estimate the probability of customers answering sales call.
 The result shows that the most important factors are customer income, and whether customer provided non‐mobile phone for follow‐up call. From the result, we could find customer segment likely to answer the call.
