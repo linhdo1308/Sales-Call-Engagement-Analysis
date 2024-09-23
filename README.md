@@ -1,4 +1,4 @@
-# R_Classificatio_Tree_Customer_Behavior_Analysis
+# R_Classification_Tree_Customer_Behavior_Analysis
 
 Sales department at AdviseInvest is facing a problem where many of customers who scheduled a sales call does not answer the call.
 We will clean data and then use a classification tree model to estimate the probability of customers answering sales call.
